@@ -1,0 +1,13 @@
+C:\Users\DELL\OneDrive - VNU-HCMUS\Desktop\ảnh\ảnh\ảnh\WindowsFormsApp1\Nhaquanly\bin\Debug\Nhaquanly.exe.config
+C:\Users\DELL\OneDrive - VNU-HCMUS\Desktop\ảnh\ảnh\ảnh\WindowsFormsApp1\Nhaquanly\bin\Debug\Nhaquanly.exe
+C:\Users\DELL\OneDrive - VNU-HCMUS\Desktop\ảnh\ảnh\ảnh\WindowsFormsApp1\Nhaquanly\bin\Debug\Nhaquanly.pdb
+C:\Users\DELL\OneDrive - VNU-HCMUS\Desktop\ảnh\ảnh\ảnh\WindowsFormsApp1\Nhaquanly\obj\Debug\Nhaquanly.csprojAssemblyReference.cache
+C:\Users\DELL\OneDrive - VNU-HCMUS\Desktop\ảnh\ảnh\ảnh\WindowsFormsApp1\Nhaquanly\obj\Debug\Nhaquanly.Properties.Resources.resources
+C:\Users\DELL\OneDrive - VNU-HCMUS\Desktop\ảnh\ảnh\ảnh\WindowsFormsApp1\Nhaquanly\obj\Debug\Nhaquanly.theodoidoanhthu.resources
+C:\Users\DELL\OneDrive - VNU-HCMUS\Desktop\ảnh\ảnh\ảnh\WindowsFormsApp1\Nhaquanly\obj\Debug\Nhaquanly.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive - VNU-HCMUS\Desktop\ảnh\ảnh\ảnh\WindowsFormsApp1\Nhaquanly\obj\Debug\Nhaquanly.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - VNU-HCMUS\Desktop\ảnh\ảnh\ảnh\WindowsFormsApp1\Nhaquanly\obj\Debug\Nhaquanly.exe
+C:\Users\DELL\OneDrive - VNU-HCMUS\Desktop\ảnh\ảnh\ảnh\WindowsFormsApp1\Nhaquanly\obj\Debug\Nhaquanly.pdb
+C:\Users\DELL\OneDrive - VNU-HCMUS\Desktop\ảnh\ảnh\ảnh\WindowsFormsApp1\Nhaquanly\obj\Debug\Nhaquanly.ThongkeRepot.resources
+C:\Users\DELL\OneDrive - VNU-HCMUS\Desktop\ảnh\ảnh\ảnh\WindowsFormsApp1\Nhaquanly\obj\Debug\Nhaquanly.TonKho.resources
+C:\Users\DELL\OneDrive - VNU-HCMUS\Desktop\ảnh\ảnh\ảnh\WindowsFormsApp1\Nhaquanly\obj\Debug\Nhaquanly.initial.resources
